@@ -1,9 +1,3 @@
-Name: Dominick D'Andrea
-JHU ID: 75805A
-
-Module 6 Assignment: Generating Mathematical Series
-Due: 10/12/2020 at 11:59 PM EST
-
 Summary
 In this module, custom functions were used to generate a famous
 mathematical number sequence, Pascal's triangle. In order to
